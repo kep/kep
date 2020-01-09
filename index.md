@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-  <title> </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
   <script src="https://kit.fontawesome.com/4e2f940d4d.js"></script>
